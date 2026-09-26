@@ -7,7 +7,7 @@ int main()
     scanf("%f %f %f %f %f",
 &s1,&s2,&s3,&s4,&s5);
 
-    total = s1+s2+s3+s4+s5
+    total = s1+s2+s3+s4+s5;
     average = total / 5;
     percentage = (total / 500) * 100;
 
